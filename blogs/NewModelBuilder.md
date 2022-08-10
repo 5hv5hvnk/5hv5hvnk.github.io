@@ -166,4 +166,5 @@ Plots recived : <br>
 ![image.png](images/modelbuilder.png)
 
 
-PR [#6023](https://github.com/pymc-devs/pymc/pull/6023) shows the implemetation of the `ModelBuilder` class for further disscussion and suggestion please add a comment on the PR itself.
+#### I have genrated a PR on PyMC experimental.
+For furter discussion and suggestions please add comment on [PR #64](https://github.com/pymc-devs/pymc-experimental/pull/64)

@@ -35,9 +35,9 @@ class LinearModel(ModelBuilder):
     with self.model:
         pm.set_data({'x': data['input'].values})
         try: # if y values in new data
-        pm.set_data({'y_data': data['output'].values})
+            pm.set_data({'y_data': data['output'].values})
         except: # dummies otherwise
-        pm.set_data({'y_data': np.zeros(len(data))})
+            pm.set_data({'y_data': np.zeros(len(data))})
 
 
  @classmethod
@@ -126,12 +126,12 @@ To `save` or `load`, we can quickly call methods for respective tasks with the f
 ```
 path = "."
 name = "mymodel"
-save_model = True # Boolean with defualt value True
+save_model = True # Boolean with default value True
 save_idata = True # Boolean with default value True
 model.save(name,path,save_model,save_idata)
 
-load_model=True # Boolean with defualt value True
-laod_idata=True # Boolean with defualt value True
+load_model=True # Boolean with default value True
+laod_idata=True # Boolean with default value True
 
 imported_model = LinearModel.load(name,path,load_model,laod_idata)
 ``` 
@@ -141,7 +141,7 @@ This saves two files at the given path, and the name
 When saving or loading the model multiple times, we might not need to save the model or the idata of the model so we can change the parameters accordingly.
 <br>
 
-`predict()` method allows users to do a posterior predcit with the fitted model.
+`predict()` method allows users to do a posterior predict with the fitted model.
 ```
 # prediction with new data
 x_pred = np.random.uniform(low=0, high=1, size=100)
@@ -166,5 +166,6 @@ Plots recived : <br>
 ![image.png](images/modelbuilder.png)
 
 
-#### I have genrated a PR on PyMC experimental.
-For furter discussion and suggestions please add comment on [PR #64](https://github.com/pymc-devs/pymc-experimental/pull/64)
+#### Relevant links
+- [pymc-experimental](https://github.com/pymc-devs/pymc-experimental/pull/64#issuecomment-1245201067)
+- [pymc_example](https://github.com/pymc-devs/pymc-examples/pull/419#issuecomment-1250028288)

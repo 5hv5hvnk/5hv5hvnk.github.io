@@ -162,7 +162,7 @@ plt.legend(loc=0)
 plt.xlabel('x')
 plt.ylabel('y');
 ```
-Plots recived : <br>
+Plots received : <br>
 ![image.png](images/modelbuilder.png)
 
 

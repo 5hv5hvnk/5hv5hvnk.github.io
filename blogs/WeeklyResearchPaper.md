@@ -1,7 +1,6 @@
-### Weekly research paper review (short)
+### Weekly research paper review (in short)
 The key motivation is to learn from a research paper every week (whatever I can) and maintain a log of the same.
-It's October 1st 2022 exactly 12 weeks for 2022 to end and I believe it can help me track my progress and learnings.
-
+#### October <br>
 **Week 1:** Learning transferable visual models from natural language supervision
 - **Authors** : A. Radford, J. W. Kim, et al
 - **Journal** : ICML 2021

@@ -12,6 +12,7 @@ Some datasets only provide integer class id labels (these cannot be used). One i
 
 - **Datasets used** : aYahoo, ImageNet, SUN.
 <br>
+
 **Week 2: On Compositions of Transformations in Contrastive Self-Supervised Learning** 
 - **Authors** : Mandela Patrick, Yuki M. Asano, et al.
 - **Journal** : ICCV 2020

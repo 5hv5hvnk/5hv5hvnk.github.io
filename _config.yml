@@ -20,6 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: about}
   - {file: "blog.md", title: blog}
   - {file: "CV.pdf", title: curriculum vitae, url: "https://5hv5hvnk.github.io/CV.pdf"}
+  - {file: "timeline.md", title: timeline}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:shashankkirtania123@gmail.com"}

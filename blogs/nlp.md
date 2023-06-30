@@ -1,4 +1,4 @@
-* [Attention is all we need](/blogs/Transformer.md)
+* [Attention is all we need](/blogs/transformer.md)
 * [BERT](/blogs/BERT.md)
 * [GPT](/blogs/GPT.md)
 * [Understanding LLMs](/blogs/LLMs.md)

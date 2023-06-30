@@ -1,5 +1,5 @@
-* [Attention is all we need]
-* [BERT]
-* [GPT]
-* [Understanding LLMs]
-* [Vector Databases]
+* [Attention is all we need](/blogs/Transformer.md)
+* [BERT](/blogs/BERT.md)
+* [GPT](/blogs/GPT.md)
+* [Understanding LLMs](/blogs/LLMs.md)
+* [Vector Databases](/blogs/vectorDatabases.md)

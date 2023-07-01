@@ -1,4 +1,4 @@
-# Attention is all you need
+# Attention Is All You Need
 
 - It is the introductory paper for transformer architecture.
 - Introduced in 2017

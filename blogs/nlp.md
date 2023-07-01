@@ -1,4 +1,4 @@
-* [Transformers](/blogs/transformer.md)
+* [Transformers](blogs/transformer.md)
 * [BERT](/blogs/BERT.md)
 * [GPT](/blogs/GPT.md)
 * [Understanding LLMs](/blogs/LLMs.md)

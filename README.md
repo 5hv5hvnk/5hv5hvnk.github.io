@@ -1,6 +1,7 @@
 ---
 title: "home"
 layout: page
+permalink: "/about/"
 ---
 <img src="blogs/images/me.png" alt="2023" width="300" height="300" style="display: block; margin: 0 auto">
 

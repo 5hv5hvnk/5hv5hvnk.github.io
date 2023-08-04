@@ -3,7 +3,8 @@ title: "home"
 layout: page
 ---
 <img src="blogs/images/me.png" alt="2023" width="300" height="300" style="display: block; margin: 0 auto">
-<figcaption>In 2023 at [Dawki](https://www.google.com/search?client=safari&rls=en&q=Dawki&ie=UTF-8&oe=UTF-8)</figcaption>
+
+`In 2023 at Dawki, Meghalaya`
         
 
 Hi! I am Shashank Kirtania, final year computer engineering major student. Passionate about NLProc, Speech Processing, Computer Vision, statistics. `[more vaguely applied machine learning]`

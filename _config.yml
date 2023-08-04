@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md",title: home}
   - {file: "index.md", title: about}
   - {file: "blog.md", title: blog}
-  - {file: "CV-Shashank.pdf", title: curriculum vitae, url:"https://drive.google.com/file/d/1yKasHcWlhhO4EE4pPTz9PUChAUNLJxBs/view?usp=sharing"}
+  - {file: "CV-Shashank.pdf", title: curriculum vitae}
   - {file: "timeline.md", title: timeline}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons

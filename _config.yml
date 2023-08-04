@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "README.md",title: home}
+  - {file: "README.md",title: home, permalink: "/"}
   - {file: "index.md", title: about}
   - {file: "blog.md", title: blog}
   - {file: "CV-Shashank.pdf", title: curriculum vitae, url:"https://drive.google.com/file/d/1yKasHcWlhhO4EE4pPTz9PUChAUNLJxBs/view?usp=sharing"}

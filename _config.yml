@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "timeline.md", title: timeline}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icon
-  - {title: twitter, icon: x-twitter, url: "https:x.com/5hv5hvnk"
+  - {title: twitter, icon: twitter, url: "https:x.com/5hv5hvnk"
   - {title: Mail, icon: envelope, url: "mailto:shashankkirtania123@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/5hv5hvnk"}
   - {title: VSCO, url: "https://vsco.co/5hv5hvnk/gallery"}

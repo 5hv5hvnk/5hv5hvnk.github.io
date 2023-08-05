@@ -5,7 +5,7 @@ permalink: "/"
 ---
 <img src="blogs/images/me.png" alt="2023" width="300" height="300" style="display: block; margin: 0 auto">
 
-`In 2023 at Dawki, Meghalaya`
+<center> In 2023 at Dawki, Meghalaya </center>
         
 
 Hi! I am Shashank Kirtania, final year computer engineering major student. Passionate about NLProc, Speech Processing, Computer Vision, statistics. `[more vaguely applied machine learning]`

@@ -5,10 +5,10 @@ permalink: "/about/"
 ---
 What I do, what I like, what consumes most of my time etc.
 
-### Student
-I am a final year student at Thapar Institute of Engineering and Technology with a major in Computer Engineering and a minor in cyber security. I am also a research intern at IIT Delhi, working with Dr VVK Srinivas. I am also working as an open-source contributor at PyMC.
+### What I do?
+I have recenlty started working with Speech Lab at IITM with Dr. S. Umesh and Dr. Hema Murthy on speech technologies for indic languages. Prior to this I worked at Wadhwani AI as ML intern with Dr. Makarand Tapaswi and Jatin Aggarwal.
 
-### Other Interests
-I was lucky enough to travel a lot of places in India (mostly) and got to click a lot of random things around me. A collection of them is present at my vsco
+### What I like?
+I like to travell & explore places. I sometimes capture things in photos and you can find them on my [VSCO](https://vsco.co/5hv5hvnk/gallery). I like to play chess I suck at it but I still like to play it. I also like to watch a lot of non-fiction movies and shows and I am always open for suggestions :)
 
-Apart from this, I pursued football in high school in my first year of college and I love to follow Champions League.
+Apart from this, I love to play football and go on small cycling tours :')

@@ -13,4 +13,4 @@ You can always drop an email if you want to collaborate on any project in domain
 
 I recently completed my internship at [Wadhwani Ai](https://www.wadhwaniai.org) where I worked on speech verification and text complexity.
 
-I am currently working as Project Associate at [Speech Lab](https://asr.iitm.ac.in) at IITM.
+I have recently joined [Microsoft Research's PROSE](https://www.microsoft.com/en-us/research/group/prose/) team as a Research Fellow.

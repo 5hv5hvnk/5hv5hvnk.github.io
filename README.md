@@ -8,9 +8,5 @@ permalink: "/"
 <center> In 2023 at Dawki, Meghalaya </center>
         
 
-Hi! I am Shashank Kirtania, final year computer engineering major student. Passionate about NLProc, Speech Processing, and statistics. `[more vaguely applied machine learning]`
-You can always drop an email if you want to collaborate on any project in domains of { Applied Machine Learning, Blockchain, Computer Networks or Linux Kernel Development}.
-
-I recently completed my internship at [Wadhwani Ai](https://www.wadhwaniai.org) where I worked on speech verification and text complexity.
-
-I have recently joined [Microsoft Research's PROSE](https://www.microsoft.com/en-us/research/group/prose/) team as a Research Fellow.
+Hi! I am Shashank Kirtania, pre-doctoral fellow at Microsoft PROSE team. I work with LLMC and LLMs to understand code. My interests lie in AI4Code, AI4SE, SE4AI. I have previously contributed to PyMC to improve workflow of bayesian models. I have spent some time at Wadhwani AI working on Oral Reading FLuency in Indic langauges.
+Prior to this I was a Bachelors student at Thapar Institue of Engineering and Tech.

@@ -17,17 +17,15 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md",title: home}
-  - {file: "index.md", title: about}
-  - {file: "blog.md", title: blog}
-  - {file: "timeline.md", title: timeline}
-  - {file: "socials.md", title: connect-with-me}
+  - {title: Mail, icon: envelope, url: "mailto:shashankkirtania123@gmail.com"}
+  - {title: Github, icon: github, url: "https://github.com/5hv5hvnk"}
+  - {title: linkedin, url: "https://www.linkedin.com/in/5hv5hvnk/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icon
   - {title: twitter, url: "https://x.com/5hv5hvnk"}
   - {title: Mail, icon: envelope, url: "mailto:shashankkirtania123@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/5hv5hvnk"}
   - {title: VSCO, url: "https://vsco.co/5hv5hvnk/gallery"}
-  - {title: linkedin, url: "https://www.linkedin.com/in/shashank-kirtania-83835b129/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/

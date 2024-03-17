@@ -8,5 +8,6 @@ permalink: "/"
 <center> In 2023 at Dawki, Meghalaya </center>
         
 
-Hi! I am Shashank Kirtania, pre-doctoral fellow at Microsoft PROSE team. I work with LLMC and LLMs to understand code. My interests lie in AI4Code, AI4SE, SE4AI. I have previously contributed to PyMC to improve workflow of bayesian models. I have spent some time at Wadhwani AI working on Oral Reading FLuency in Indic langauges.
-Prior to this I was a Bachelors student at Thapar Institue of Engineering and Tech.
+Hi! I am Shashank Kirtania, pre-doctoral fellow at Microsoft [PROSE team](https://www.microsoft.com/en-us/research/group/prose/). I work with [Gustavo Soares](https://www.microsoft.com/en-us/research/people/gsoares/), [Arjun Radhakrishna](https://www.microsoft.com/en-us/research/people/arradha/) and [Sumit Gulwani](https://www.microsoft.com/en-us/research/people/sumitg/). My current research is about how to leverage language models to reason about code in order to attain complex software engineering tasks.
+Previously I have been privelged to work with Soma Dhavala and Makarand Tapaswi during my time at Wadhwani AI developing speech related solutions in AI4SocialGood and AI4Education. 
+I have also worked closely with Thomas Wiecki at PyMC labs where I spent most of my time improving workflow of bayesian models employeed by PyMC.

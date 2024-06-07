@@ -12,17 +12,17 @@ Previously I have been privelged to work with [Soma Dhavala](https://scholar.goo
 I have also worked closely with [Thomas Wiecki](https://twiecki.io/) at PyMC labs where I spent most of my time improving workflow of bayesian models employeed by PyMC.
 <br>
 I am interested in how ML can help in synthesis, verification and repair of code (ML4PL) and how verification can help in better explainability, generalizability  of algorithms (PL4ML). <br> I will be applying for PhD in Fall'25 cycle.
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
     <a href="https://www.microsoft.com/">
         <img src="https://blogs.microsoft.com/wp-content/uploads/prod/2012/08/8867.Microsoft_5F00_Logo_2D00_for_2D00_screen.jpg" alt="Company Logo" width="200">
     </a>
     <a href="https://www.wadhwaniai.org/">
-    <img src="https://www.wadhwaniai.org/wp-content/uploads/2023/02/wiai_logo_black-1024x277.png", alt="wadhwaniai", width="200">
+        <img src="https://www.wadhwaniai.org/wp-content/uploads/2023/02/wiai_logo_black-1024x277.png" alt="wadhwaniai" width="200">
     </a>
     <a href="https://summerofcode.withgoogle.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GSoC_logo.svg/1200px-GSoC_logo.svg.png", width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/GSoC_logo.svg/1200px-GSoC_logo.svg.png" alt="GSoC" width="200">
     </a>
     <a href="https://www.pymc.io/projects/docs/en/stable/learn.html">
-    <img src="https://www.pymc.io/_static/PyMC.jpg", width="200">
+        <img src="https://www.pymc.io/_static/PyMC.jpg" alt="PyMC" width="200">
     </a>
 </div>

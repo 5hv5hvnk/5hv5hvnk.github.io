@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Curriculum Vitae, icon: file, url: "https://github.com/5hv5hvnk"}
-  - {title: google scholar, icon: fa-graduation-cap, url: "https://scholar.google.com/citations?user=AT5hwWkAAAAJ&hl=en"}
+  - {title: google scholar, url: "https://scholar.google.com/citations?user=AT5hwWkAAAAJ&hl=en"}
   - {title: Github, icon: github, url: "https://github.com/5hv5hvnk"}
   - {title: Mail, icon: envelope, url: "mailto:shashankkirtania123@gmail.com"}
   - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/5hv5hvnk/"}

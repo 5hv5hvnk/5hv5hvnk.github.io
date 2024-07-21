@@ -16,7 +16,7 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: Curriculum Vitae, icon: file, url: "https://docs.google.com/viewer?url=https://github.com/5hv5hvnk/5hv5hvnk.github.io/raw/master/CV__03_03.pdf&embedded=true"}
+  - {title: Curriculum Vitae, icon: file, url: "https://docs.google.com/viewer?url=https://github.com/5hv5hvnk/5hv5hvnk.github.io/raw/master/Shashank_CV.pdf&embedded=true"}
   # <a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
   - {title: google scholar, url: "https://scholar.google.com/citations?user=AT5hwWkAAAAJ&hl=en"}
   - {title: Github, icon: github, url: "https://github.com/5hv5hvnk"}

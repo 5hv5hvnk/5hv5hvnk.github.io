@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {title: Curriculum Vitae, icon: file, url: "https://docs.google.com/viewer?url=https://github.com/5hv5hvnk/5hv5hvnk.github.io/raw/master/Shashank_CV.pdf&embedded=true"}
   # <a href="/pdfs/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
   # <i class="fa-brands fa-google-scholar"></i>
-  - {title: google scholar, icon: fa-google-scholar, style: color :#FFFFFF,  url: "https://scholar.google.com/citations?user=AT5hwWkAAAAJ&hl=en"}
+  - {title: google scholar, icon: google-scholar,  url: "https://scholar.google.com/citations?user=AT5hwWkAAAAJ&hl=en"}
   - {title: Github, icon: github, url: "https://github.com/5hv5hvnk"}
   - {title: Mail, icon: envelope, url: "mailto:shashankkirtania123@gmail.com"}
   - {title: linkedin, icon: linkedin, url: "https://www.linkedin.com/in/5hv5hvnk/"}

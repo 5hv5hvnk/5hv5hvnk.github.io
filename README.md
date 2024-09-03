@@ -18,7 +18,7 @@ I am interested in how ML can help in synthesis, verification and repair of code
 ### Publications
 **_MetaReflection: Learning Instructions for Language Agents using Past Reflections_** [link](https://arxiv.org/abs/2405.13009)  
 **Priyanshu Gupta\***, <ins>**_Shashank Kirtania_**</ins>\*, Annanya Singha\*, Sumit Gulwani, Arjun Radhakrishna, Sherry Shi, Gustavo Soares  
-Under Review at EMNLP'24       <tab> _<* denotes shared first author, last names in alphabetic order>_
+Under Review at EMNLP'24       <tab> * = shared first author, last names in alphabetic order
 
 **_LOGIC-LM++: Multi-Step Refinement for Symbolic Formulations_** [link](https://aclanthology.org/2024.nlrse-1.6/)  
 <ins>**_Shashank Kirtania_**</ins>, Priyanshu Gupta, Arjun Radhakrishna  

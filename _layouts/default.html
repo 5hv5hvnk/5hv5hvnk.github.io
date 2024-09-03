@@ -33,12 +33,10 @@
 </header>
 
 {{ content }}
-
-{% if site.external %}
-<!--   <div>{{ site.description | default: site.title }}</div>
-  {% include menu.html menu=site.external %} -->
-{%- include footer.html %}
-
+<footer>
+  <div>{{ site.description | default: site.title }}</div>
+  {% include menu.html menu=site.external %}
+</footer>
 {% endif %}
 
 </html>

@@ -3,7 +3,7 @@ title: ""
 layout: page
 permalink: "/"
 ---
-<img src="blogs/images/me.png" alt="2023" width="300" height="300" style="display: block; margin: 0 auto">
+<img src="blogs/images/me_2024.jpg" alt="boy infront of company logo" width="300" height="300" style="display: block; margin: 0 auto">
 
         
 

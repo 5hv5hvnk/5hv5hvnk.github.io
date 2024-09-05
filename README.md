@@ -18,14 +18,14 @@ My more formal curriculum vitae could be found [here](https://docs.google.com/vi
     
 ### Publications [`google-scholar`](https://scholar.google.com/citations?user=AT5hwWkAAAAJ&hl=en)
 
-**_MetaReflection: Learning Instructions for Language Agents using Past Reflections_** [link](https://arxiv.org/abs/2405.13009)<br>
+- **_MetaReflection: Learning Instructions for Language Agents using Past Reflections_** [arxiv](https://arxiv.org/abs/2405.13009)<br>
 **Priyanshu Gupta\***, <ins>**_Shashank Kirtania_**</ins>\*, Annanya Singha\*, Sumit Gulwani, Arjun Radhakrishna, Sherry Shi, Gustavo Soares<br>
 Under Review at EMNLP'24       <tab> * = shared first author, last names in alphabetic order<br><br>
 
-**_LOGIC-LM++: Multi-Step Refinement for Symbolic Formulations_** [link](https://aclanthology.org/2024.nlrse-1.6/)<br>
+- **_LOGIC-LM++: Multi-Step Refinement for Symbolic Formulations_** [arxiv](https://aclanthology.org/2024.nlrse-1.6/)<br>
 <ins>**_Shashank Kirtania_**</ins>, Priyanshu Gupta, Arjun Radhakrishna<br>
 Workshop on Natural Language Reasoning and Structured Explanations @ ACL 2024<br><br>
 
-**_DWT-CompCNN: Deep Image Classification Network for High Throughput JPEG 2000 Compressed Documents_** [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AT5hwWkAAAAJ&citation_for_view=AT5hwWkAAAAJ:u5HHmVD_uO8C)<br>
+- **_DWT-CompCNN: Deep Image Classification Network for High Throughput JPEG 2000 Compressed Documents_** [link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AT5hwWkAAAAJ&citation_for_view=AT5hwWkAAAAJ:u5HHmVD_uO8C)<br>
 Tejasvee Bisen, Mohammed Javed, <ins>**_Shashank Kirtania_**</ins>, P Nagabhushan<br>
 Pattern Analysis and Applications, Springer, 2023

@@ -17,6 +17,9 @@ My more formal curriculum vitae could be found [here](https://docs.google.com/vi
 <br>
     
 ### Publications [`google-scholar`](https://scholar.google.com/citations?user=AT5hwWkAAAAJ&hl=en)
+- **_MACCAFE: Multi-Actor, Centralized Critic Architecture for Feedback-Driven Editing_** [preprint](https://www.microsoft.com/en-us/research/uploads/prod/2024/10/maccafe-preprint.pdf)<br>
+Naman Gupta, <ins>**_Shashank Kirtania_**</ins>, Priyanshu Gupta, Krishna Kariya, Sumit Gulwani, Arun Iyer, Suresh Parthasarathy, Arjun Radhakrishna, Sriram K. Rajamani, Gustavo Soares<br>
+Under review
 
 - **_MetaReflection: Learning Instructions for Language Agents using Past Reflections_** [arxiv](https://arxiv.org/abs/2405.13009)<br>
 **Priyanshu Gupta\***, <ins>**_Shashank Kirtania_**</ins>\*, Annanya Singha\*, Sumit Gulwani, Arjun Radhakrishna, Sherry Shi, Gustavo Soares<br>

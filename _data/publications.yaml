@@ -3,7 +3,7 @@ papers:
 - title: "Activation Steering in Theorem Prover LLMs"
   authors: "Shashank Kirtania"
   venue: "Under review"
-  paper_pdf: "https://arxiv.org/abs/2405.13009"
+  paper_pdf: "https://arxiv.org/"
   selected: y
 - title: "STACKFEED: Structured Textual Actor-Critic Knowledge Base Editing with Feedback"
   authors: "Shashank Kirtania‡, Naman Gupta‡, Priyanshu Gupta, Krishna Kariya, Sumit Gulwani, Arun Iyer, Suresh Parthasarathy, Arjun Radhakrishna, Sriram K. Rajamani, Gustavo Soares"

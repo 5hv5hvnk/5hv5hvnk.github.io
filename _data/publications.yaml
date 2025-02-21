@@ -1,0 +1,25 @@
+papers:
+
+- title: "STACKFEED: Structured Textual Actor-Critic Knowledge Base Editing with Feedback"
+  authors: "Shashank Kirtania*, Naman Gupta*, Priyanshu Gupta, Krishna Kariya, Sumit Gulwani, Arun Iyer, Suresh Parthasarathy, Arjun Radhakrishna, Sriram K. Rajamani, Gustavo Soares"
+  venue: "Under review."
+  paper_pdf: "https://aka.ms/kb-editing"
+  selected: y
+
+- title: "MetaReflection: Learning Instructions for Language Agents using Past Reflections"
+  authors: "Shashank Kirtania*, Priyanshu Gupta*, Annanya Singha*, Sumit Gulwani, Arjun Radhakrishna, Sherry Shi, Gustavo Soares"
+  venue: "Accepted at EMNLP'24 Main."
+  paper_pdf: "https://arxiv.org/abs/2405.13009"
+  selected: y
+
+- title: "LOGIC-LM++: Multi-Step Refinement for Symbolic Formulations"
+  authors: "Shashank Kirtania, Priyanshu Gupta, Arjun Radhakrishna"
+  venue: "Workshop on Natural Language Reasoning and Structured Explanations @ ACL 2024."
+  paper_pdf: "https://aclanthology.org/2024.nlrse-1.6/"
+  selected: y
+
+- title: "DWT-CompCNN: Deep Image Classification Network for High Throughput JPEG 2000 Compressed Documents"
+  authors: "Tejasvee Bisen, Mohammed Javed, Shashank Kirtania, P Nagabhushan"
+  venue: "Pattern Analysis and Applications, Springer, 2023."
+  paper_pdf: "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=AT5hwWkAAAAJ&citation_for_view=AT5hwWkAAAAJ:u5HHmVD_uO8C"
+  selected: y

@@ -2,7 +2,7 @@ papers:
 
 - title: "Activation Steering in Theorem Prover LLMs"
   authors: "Shashank Kirtania"
-  venue: "Under review"
+  venue: "FM in Wild Workshop ICLR'25"
   paper_pdf: "https://arxiv.org/abs/2502.15507"
   selected: y
 - title: "STACKFEED: Structured Textual Actor-Critic Knowledge Base Editing with Feedback"

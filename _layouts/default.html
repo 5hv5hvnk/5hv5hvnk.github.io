@@ -74,20 +74,20 @@
         </div>
         <div class="nine columns main-description">
             <h1>{{ site.data.main_info.name }}</h1>
-            <p>{{ site.data.main_info.title }}</p>
-            <p>{{ site.data.main_info.email }}</p>
+            <!-- <p>{{ site.data.main_info.title }}</p> -->
+            <!-- <p>{{ site.data.main_info.email }}</p> -->
             <p>
               <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
               </span>
 
-              <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
+              <!-- <span onclick="window.open('{{ site.data.main_info.linkedin }}')" style="cursor: pointer">
                 <i class="fa fa-linkedin-square" aria-hidden="true"></i>
-              </span>
+              </span> -->
 
-              <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
+              <!-- <span onclick="window.open('{{ site.data.main_info.github }}')" style="cursor: pointer">
                 <i class="fa fa-github" aria-hidden="true"></i>
-              </span>
+              </span> -->
 
               <span onclick="window.open('{{ site.data.main_info.google_scholar }}')" style="cursor: pointer">
                 <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
@@ -97,18 +97,16 @@
       </div>
     </section>
 
-    <div class="navbar-spacer"></div>
+    <!-- <div class="navbar-spacer"></div>
     <nav class="navbar">
       <div class="container">
         <ul class="navbar-list">
           <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#bio" | prepend: site.baseurl }}>Bio</a></li>
-          <!-- <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#prospective-students" | prepend: site.baseurl }}>Prospective Students</a></li> -->
           <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#publications" | prepend: site.baseurl }}>Publications</a></li>
-          <!--<li class="navbar-item"><a class="navbar-link" href={{ "/index.html#projects" | prepend: site.baseurl }}>Projects</a></li>-->
           <li class="navbar-item"><a class="navbar-link" href={{ "/index.html#resume" | prepend: site.baseurl }}>CV</a></li>
         </ul>
       </div>
-    </nav>
+    </nav> -->
 
     {{ content}}
 

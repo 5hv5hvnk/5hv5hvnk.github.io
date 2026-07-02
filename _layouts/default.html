@@ -63,6 +63,10 @@
 </head>
 <body>
 
+  <button class="dark-mode-toggle" id="dark-mode-toggle" aria-label="Toggle dark mode">
+    <i class="fa fa-adjust" aria-hidden="true"></i>
+  </button>
+
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <div class="container">
@@ -123,6 +127,21 @@
 
   <!-- Live2D Cat -->
   {% include live2d_cat.html %}
+
+  <!-- Dark mode toggle -->
+  <script>
+    (function() {
+      var body = document.body;
+      var toggle = document.getElementById('dark-mode-toggle');
+      if (localStorage.getItem('dark-mode') === 'on') {
+        body.classList.add('dark-mode');
+      }
+      toggle.addEventListener('click', function() {
+        body.classList.toggle('dark-mode');
+        localStorage.setItem('dark-mode', body.classList.contains('dark-mode') ? 'on' : 'off');
+      });
+    })();
+  </script>
 
   <!-- do not remove -->
   <span id="62cd7b7da1aff3196fdc26b60e396df9"></span>

@@ -71,6 +71,57 @@ h4 {
   padding: 3px;
 }
 
+/*  ================ Dark mode  ================ */
+body {
+  background-color: #fff;
+  color: #222;
+  transition: background-color 0.2s, color 0.2s;
+}
+.dark-mode-toggle {
+  position: fixed;
+  top: 15px;
+  right: 15px;
+  z-index: 100;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #222;
+  cursor: pointer;
+  font-size: 16px;
+}
+body.dark-mode {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+body.dark-mode a {
+  color: #8ab4f8;
+}
+body.dark-mode .docs-section {
+  border-top-color: #333; }
+body.dark-mode .footer {
+  color: rgba(255, 255, 255, 0.4);
+  border-top-color: #333; }
+body.dark-mode .navbar,
+body.dark-mode .navbar-spacer {
+  background: #121212;
+  border-top-color: #333;
+  border-bottom-color: #333; }
+body.dark-mode .navbar-link {
+  color: #e0e0e0; }
+body.dark-mode .title-subtitle h5 {
+  color: rgba(255, 255, 255, 0.6); }
+body.dark-mode .project-image-container {
+  border-color: rgba(255, 255, 255, 0.2); }
+body.dark-mode .dark-mode-toggle {
+  background: #1e1e1e;
+  border-color: #444;
+  color: #e0e0e0; }
+body.dark-mode #live2dcanvas {
+  filter: invert(1);
+}
+
 /* Larger than phone */
 @media (min-width: 550px) {
   .header {

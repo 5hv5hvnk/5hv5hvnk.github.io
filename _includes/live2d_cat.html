@@ -1,0 +1,33 @@
+<!-- Live2D cat widget (bottom right) -->
+<script>
+  (function() {
+    if (document.getElementById('live2d-widget-script')) return;
+
+    var script = document.createElement('script');
+    script.id = 'live2d-widget-script';
+    script.src = 'https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js';
+    script.async = true;
+    script.onload = function() {
+      window.L2Dwidget.init({
+        pluginRootPath: 'live2dw/',
+        pluginJsPath: 'lib/',
+        pluginModelPath: 'assets/',
+        tagMode: false,
+        debug: false,
+        model: {
+          jsonPath: 'https://cdn.jsdelivr.net/npm/live2d-widget-model-tororo@1.0.5/assets/tororo.model.json'
+        },
+        display: {
+          position: 'right',
+          width: 150,
+          height: 300
+        },
+        mobile: {
+          show: true
+        },
+        log: false
+      });
+    };
+    document.head.appendChild(script);
+  })();
+</script>

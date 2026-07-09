@@ -1,8 +1,14 @@
 papers:
 
+- title: "Improving Language Agents with BREW: "
+  authors: "Shashank Kirtania, Param Biyani, Priyanshu Gupta, Yasharth Bajpai, Roshni Iyer, Sumit Gulwani, Gustavo Soares"
+  venue: "Conference of Language Modelling 2025, Multi-Turn Interaction Workshop at NeurIPS 2025"
+  paper_pdf: "https://www.microsoft.com/en-us/research/publication/improving-language-agents-through-brew/"
+  selected: y
+
 - title: "Activation Steering in Theorem Prover LLMs"
   authors: "Shashank Kirtania, Arun Iyer"
-  venue: "FM in Wild Workshop ICLR'25, Under Submission at ICLR 2026"
+  venue: "FM in Wild Workshop ICLR'2025"
   paper_pdf: "https://arxiv.org/abs/2502.15507"
   selected: y
 
@@ -10,12 +16,6 @@ papers:
   authors: "Shashank Kirtania‡, Naman Gupta‡, Priyanshu Gupta, Krishna Kariya, Sumit Gulwani, Arun Iyer, Suresh Parthasarathy, Arjun Radhakrishna, Sriram K. Rajamani, Gustavo Soares"
   venue: "Empirical Methods in Natural Language Processing 2025, DL for Code Workshop NeurIPS 2025"
   paper_pdf: "https://aka.ms/kb-editing"
-  selected: y
-
-- title: "Improving Language Agents with BREW: "
-  authors: "Shashank Kirtania, Param Biyani, Priyanshu Gupta, Yasharth Bajpai, Roshni Iyer, Sumit Gulwani, Gustavo Soares"
-  venue: "Multi-Turn Interaction Workshop at NeurIPS 2025, Under Submission at ICLR 2026"
-  paper_pdf: "https://www.microsoft.com/en-us/research/publication/improving-language-agents-through-brew/"
   selected: y
 
 - title: "MetaReflection: Learning Instructions for Language Agents using Past Reflections"
@@ -28,7 +28,7 @@ papers:
   authors: "Shashank Kirtania, Priyanshu Gupta, Arjun Radhakrishna"
   venue: "Workshop on Natural Language Reasoning at ACL 2024"
   paper_pdf: "https://aclanthology.org/2024.nlrse-1.6/"
-  selected: y
+  selected: n
 
 - title: "DWT-CompCNN: Deep Image Classification Network for High Throughput JPEG 2000 Compressed Documents"
   authors: "Tejasvee Bisen, Mohammed Javed, Shashank Kirtania, P Nagabhushan"

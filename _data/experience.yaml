@@ -1,7 +1,13 @@
 experiences:
 
+- place: "University of Michigan, Ann Arbor"
+  time: "2026-"
+  title: "CS PhD"
+  # subtitle: "AI"
+  category: "education"
+
 - place: "Microsoft Research India"
-  time: "2023 - now"
+  time: "2023 - 2026"
   title: "ML Resident"
   subtitle: "AI4Code"
   category: "work"

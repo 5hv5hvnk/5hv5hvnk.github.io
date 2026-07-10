@@ -2,7 +2,7 @@ papers:
 
 - title: "Improving Language Agents with BREW: "
   authors: "Shashank Kirtania, Param Biyani, Priyanshu Gupta, Yasharth Bajpai, Roshni Iyer, Sumit Gulwani, Gustavo Soares"
-  venue: "Conference of Language Modelling 2025, Multi-Turn Interaction Workshop at NeurIPS 2025"
+  venue: "Conference of Language Modeling 2026, Multi-Turn Interaction Workshop at NeurIPS 2025"
   paper_pdf: "https://www.microsoft.com/en-us/research/publication/improving-language-agents-through-brew/"
   selected: y
 

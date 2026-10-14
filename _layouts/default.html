@@ -53,7 +53,9 @@
   <!-- Scripts
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
   <!--<link rel="stylesheet" href={{ "/libs/external/github-prettify-theme.css" | prepend: site.baseurl }}>-->
+  {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
   <script src={{ "/libs/custom/my_js.js" | prepend: site.baseurl }}></script>
+  {% endcomment %}
 
   <!-- Favicon
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -63,9 +65,11 @@
 </head>
 <body>
 
+  {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
   <button class="dark-mode-toggle" id="dark-mode-toggle" aria-label="Toggle dark mode">
     <i class="fa fa-adjust" aria-hidden="true"></i>
   </button>
+  {% endcomment %}
 
   <!-- Primary Page Layout
   –––––––––––––––––––––––––––––––––––––––––––––––––– -->
@@ -73,13 +77,19 @@
 
     <section class="header">
       <div class="row">
+        {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
         <div class="three columns">
           <a href="{{ site.baseurl }}/"><img class="u-max-full-width" src='{{ site.baseurl }}{{ site.data.main_info.profile_pic }}'></a>
         </div>
+        {% endcomment %}
         <div class="nine columns main-description">
             <h1>{{ site.data.main_info.name }}</h1>
+            {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
             <p>{{ site.data.main_info.title }}</p>
+            {% endcomment %}
             <p>{{ site.data.main_info.email }}</p>
+            <p>{{ site.data.main_info.office }}</p>
+            {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
             <p>
               <span onclick="window.open('{{ site.data.main_info.twitter }}')" style="cursor: pointer">
                 <i class="fa fa-twitter" aria-hidden="true"></i>
@@ -97,10 +107,12 @@
                 <i class="ai ai-google-scholar ai-lg" aria-hidden="true"></i>
               </span>
             </p>
+            {% endcomment %}
         </div>
       </div>
     </section>
 
+    {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
     <div class="navbar-spacer"></div>
     <nav class="navbar">
       <div class="container">
@@ -111,14 +123,17 @@
         </ul>
       </div>
     </nav>
+    {% endcomment %}
 
     {{ content}}
 
+    {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
     <div class="footer">
       <div class="row">
         This website is based on a template by <a href="https://faculty.washington.edu/msaveski/">Martin Saveski</a>.
       </div>
     </div>
+    {% endcomment %}
 
   </div>
 
@@ -126,9 +141,12 @@
   {% include google_analytics.html %}
 
   <!-- Live2D Cat -->
+  {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
   {% include live2d_cat.html %}
+  {% endcomment %}
 
   <!-- Dark mode toggle -->
+  {% comment %} Hidden for now; delete this line and the matching endcomment line to restore.
   <script>
     (function() {
       var body = document.body;
@@ -142,6 +160,7 @@
       });
     })();
   </script>
+  {% endcomment %}
 
   <!-- do not remove -->
   <span id="62cd7b7da1aff3196fdc26b60e396df9"></span>
